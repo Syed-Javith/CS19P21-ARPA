@@ -1,0 +1,21 @@
+Sub Merge()
+'
+' Merge Macro
+'
+' Keyboard Shortcut: Ctrl+Shift+F
+'
+    Range("A1:G1").Select
+    With Selection
+        .HorizontalAlignment = xlCenter
+        .VerticalAlignment = xlBottom
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    Selection.Merge
+    Selection.Font.Bold = True
+End Sub
