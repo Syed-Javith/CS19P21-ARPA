@@ -1,0 +1,13 @@
+{
+  "assemblyStates": {
+    "CC1C4729715_users_su.j4ICLPYpbR1f7kP74QbVvd": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.CC1C4729715_users_sub_followers_List.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.CC1C4729715_users_sub_followers_List",
+        "hash": "cDlxbWYyMnpuOFIxVGtsNGw1aG81ZzdXRUF1Q1RsNHNaeWkxd1lTSXROMjJNYnIra1FNcFhVMTlNbmNNeG5OU3NuM3JXT3pxR0UxdGNNMHRvVHJrRUE9PQ",
+        "assemblyName": "CC1C4729715_users_su.j4ICLPYpbR1f7kP74QbVvd"
+      }
+    }
+  }
+}
